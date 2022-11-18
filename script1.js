@@ -1,3 +1,5 @@
+// Часы
+
 const action = +prompt("Type the quantity oh hours ",'')
 console.log(action);
 

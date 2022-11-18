@@ -1,3 +1,5 @@
+// Калькулятор 
+
 let action = prompt("What do you want to do? Add/div/sub/mult? ", '');
 console.log(action);
 

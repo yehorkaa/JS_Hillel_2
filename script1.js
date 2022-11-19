@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+// Часы
+
+>>>>>>> 834f3b441f76e2a96e4cd30380c49846ab336445
 let action = +prompt("Type the quantity oh hours ", "");
 console.log(action);
 

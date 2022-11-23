@@ -51,10 +51,3 @@ if (action_sport === null) {
     alert('This sport does not available');
 }
 }
-
-
-
-
-
-
-
